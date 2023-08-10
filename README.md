@@ -18,4 +18,5 @@ Belajar kelas Dasar Git dan Github dengan progres belajar 44%
 Belajar kelas Dasar Git dan GitHub dengan progres belajar 66%  
   * Membuat Forking pada akun orang lain
   * Bisa melakukan Pull Request baik dari akun sendiri maupun dari Colaborator
+  * Membuat code review untuk pemilik repository
 
