@@ -9,13 +9,7 @@ Belajar Kelas Dasar Git dan GitHub dengan progres belajar 35%
   -  Membuat akun Github serta menambahkan email kedua pada akun
   -  Membuat Respository pada GitHub  
     
-**09 Agustus 2023**  
+**09 Agustus 2023**
 Belajar kelas Dasar Git dan Github dengan progres belajar 44%
   *  Belajar membuat commit pada Repository
-  *  Belajar mepublikasi Repository yang telah di buat <br>
-
-**10 Agustus 2023**  
-Belajar kelas Dasar Git dan GitHub dengan progres belajar 66%  
-  * Membuat Forking pada akun orang lain
-  * Bisa melakukan Pull Request baik dari akun sendiri maupun dari Colaborator
-
+  *  Belajar mepublikasi Repository yang telah di buat
