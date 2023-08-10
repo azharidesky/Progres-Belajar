@@ -17,3 +17,4 @@ Belajar kelas Dasar Git dan Github dengan progres belajar 44%
 **10 Agustus 2023**  
 Belajar dasar Git dan GitHub dengan progres belajar sudah 67%
   * Membuat fork sebagai colaborator
+  * Melakukan squash pada commits
